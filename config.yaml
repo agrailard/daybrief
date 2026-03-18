@@ -1,6 +1,6 @@
 ai:
-  provider: "gemini"
-  model: "gemini-3-flash-preview"
+  provider: "openai"
+  model: "gpt-5.4-nano"
 
 newsletter:
   language: "fr"
